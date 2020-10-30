@@ -1,15 +1,16 @@
 # Data-FAIRification
-Data FAIRification: Ontology Enhancement Platform
+Data FAIRification: Ontology cross-reference and mapping service
 
 Problem Statement
+
 As the data is being annotated on a larger scale and are described using controlled terminologies or ontology standards. Multiple ontologies are available for any given domain, so the ability to map related or similar concepts is the necessity for data integration. Several techniques and tools have emerged that support ontology mapping, but finding and harmonising mappings from multiple sources remains a challenge for users.
 
+Aim
 
-Aim  
 To address the above issue we have developed OAAS, a repository of known ontology mappings and cross-references extracted from multiple datasources. Our system enhances publically available ontologies by finding correspondences (mappings and cross-references) between different ontologies across different domains i.e, harmonising mappings from multiple datasources which facilitates semantic search and improve discoverabilities without compromising on the quality. 
 
+About OAAS:
 
-About OAAS: 
 OAAS is a comprehensive semantic repository for biomedical ontologies that aims to provide a single point of access to the latest ontology versions, enriched terminologies at one place. You can browse the ontologies through the this tool. OAAS provides a Web interface and API to access mappings.
 Features:
 	Add Context (meta-data) to data
