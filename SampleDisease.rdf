@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:mc="http://oaas.molecularconnections.com/"
+	 xmlns:mcr="http://oaas.molecularconnections.com/resource/">
+	 xmlns:mcr="http://oaas.molecularconnections.com/resource/">
+		
+<rdf:Description rdf:about="http://oaas.molecularconnections.com/">
+		<dc:creator>Molecular Connections Pvt Ltd</dc:creator>
+		<dc:date>2020-06-23</dc:date>
+</rdf:Description> 
+<rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:M5991">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://identifiers.org/mesh:D003920</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MESH:D003920</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MeSH Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetes Mellitus</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+        <mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:M5991</mc:uid>  		
+        <skos:altLabel>diabetes</skos:altLabel>
+       	<skos:altLabel>diabetes mellitus (disease)</skos:altLabel>
+ 	<skos:altLabel>Diabetes mellitus (disorder)</skos:altLabel>
+	<skos:altLabel>Diabetes mellitus, NOS</skos:altLabel>
+	<skos:altLabel>Diabetes NOS</skos:altLabel>
+	<skos:altLabel>DM</skos:altLabel>
+	<skos:altLabel>DM - Diabetes mellitus</skos:altLabel>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D102"/>   
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:H647"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E6908"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N65486"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O14331"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED22787"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I15351"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO123"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS1245"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SCDO985623"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:OM22907"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD4477"/>
+    </rdf:Description>
+	
+   <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:D102">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/DOID_9351</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:9351</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Human Disease Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">diabetes mellitus</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:D102</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M5991"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:H647"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E6908"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N65486"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O14331"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED22787"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I15351"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO123"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS1245"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SCDO985623"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:OM22907"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD4477"/>
+   </rdf:Description>
+ 
+   <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:H647">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/HP_0000819</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">HP:0000819</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Human Phenotype Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetes mellitus</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:H647</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M5991"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D102"/>   
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E6908"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N65486"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O14331"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED22787"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I15351"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO123"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS1245"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SCDO985623"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:OM22907"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD4477"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:E6908">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://identifiers.org/efo:0000400</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EFO:0000400</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Experimental Factor Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">diabetes mellitus</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:E6908</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M5991"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D102"/>   
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N65486"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O14331"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED22787"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I15351"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO123"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS1245"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SCDO985623"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:H647"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:OM22907"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD4477"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:N65486">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://identifiers.org/ncit:C2985</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NCIT:C2985</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NCI Thesaurus OBO Edition</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetes Mellitus</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:N65486</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M5991"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D102"/>   
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O14331"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED22787"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I15351"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO123"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS1245"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SCDO985623"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:H647"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E6908"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:OM22907"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD4477"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:O14331">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://identifiers.org/omit:0005196</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIT:0005196</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIT Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetes Mellitus</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:O14331</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M5991"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D102"/>   
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED22787"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I15351"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO123"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS1245"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SCDO985623"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:H647"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E6908"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N65486"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:OM22907"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD4477"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:MED22787">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://identifiers.org/meddra:10012601</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MEDDRA:10012601</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MedDRA Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetes mellitus</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:MED22787</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M5991"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D102"/>   
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I15351"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO123"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS1245"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SCDO985623"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:H647"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E6908"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N65486"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O14331"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:OM22907"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD4477"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:I15351">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.icd10data.com/ICD10CM/Codes/E00-E89/E08-E13</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ICD10:E08-E13</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ICD10 Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetes mellitus</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:I15351</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M5991"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D102"/>   
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO123"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS1245"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SCDO985623"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:H647"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E6908"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N65486"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O14331"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED22787"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:OM22907"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD4477"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:SNO123">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.bioontology.org/ontology/SNOMEDCT/73211009</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SNOMEDCT:73211009</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SNOMEDCT Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetes mellitus</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:SNO123</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M5991"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D102"/>   
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS1245"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SCDO985623"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:H647"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E6908"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N65486"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O14331"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED22787"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I15351"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:OM22907"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD4477"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:SCDO985623">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://scdontology.h3abionet.org/ontology/SCDO_0000367</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SCDO:0000367</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sickle Cell Disease Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetes mellitus</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:SCDO985623</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M5991"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D102"/>   
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS1245"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:H647"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E6908"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N65486"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O14331"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED22787"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I15351"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO123"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:OM22907"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD4477"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:OM22907">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.bioontology.org/ontology/OMIM/MTHU036798</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM:MTHU036798</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIM Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetes mellitus</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:OM22907</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M5991"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D102"/>   
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:H647"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E6908"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N65486"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O14331"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED22787"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I15351"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO123"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SCDO985623"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS1245"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD4477"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:UMLS1245">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://identifiers.org/umls:C0026769</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UMLS:C0011849</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UMLS</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">diabetes</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:UMLS1245</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M5991"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D102"/>   
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:H647"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E6908"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N65486"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O14331"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED22787"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I15351"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO123"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SCDO985623"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:OM22907"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD4477"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:ICD4477">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.icd9data.com/2015/Volume1/240-279/249-259/250/</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ICD9:250</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">IDC9 Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diabetes mellitus</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:ICD4477</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M5991"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D102"/>   
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:H647"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E6908"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N65486"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O14331"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED22787"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I15351"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO123"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SCDO985623"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:OM22907"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS1245"/>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:M10936">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://identifiers.org/mesh:D009103</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MESH:D009103</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MeSH Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multiple Sclerosis</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+        <mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:M10936</mc:uid>  		
+        <skos:altLabel>Chronic progressive multiple sclerosis</skos:altLabel>
+	<skos:altLabel>Dementia due to multiple sclerosis w behavioral disturbance</skos:altLabel>
+	<skos:altLabel>Dementia due to multiple sclerosis with altered behavior</skos:altLabel>
+	<skos:altLabel>Dementia from multiple sclerosis</skos:altLabel>
+	<skos:altLabel>Disseminated Sclerosis</skos:altLabel>
+	<skos:altLabel>Exacerbation of multiple sclerosis</skos:altLabel>
+	<skos:altLabel>generalized multiple sclerosis</skos:altLabel>
+	<skos:altLabel>insular sclerosis</skos:altLabel>
+	<skos:altLabel>MS</skos:altLabel>
+	<skos:altLabel>MS (Multiple Sclerosis)</skos:altLabel>
+	<skos:altLabel>Multiple sclerosis (ms), chronic/progressive</skos:altLabel>
+	<skos:altLabel>Multiple sclerosis (ms), exacerbation</skos:altLabel>
+	<skos:altLabel>Multiple sclerosis (ms), primary progressive</skos:altLabel>
+	<skos:altLabel>Multiple sclerosis (ms), relapsing progressive</skos:altLabel>
+	<skos:altLabel>Multiple sclerosis (ms), relapsing remitting</skos:altLabel>
+	<skos:altLabel>Multiple sclerosis (ms), secondary progressive</skos:altLabel>
+	<skos:altLabel>MULTIPLE SCLEROSIS ACUTE FULMINATING</skos:altLabel>
+	<skos:altLabel>Multiple Sclerosis, Acute Fulminating</skos:altLabel>
+	<skos:altLabel>Primary progressive multiple sclerosis</skos:altLabel>
+	<skos:altLabel>Relapsing remitting multiple sclerosis</skos:altLabel>
+	<skos:altLabel>Remittent-progressive multiple sclerosis</skos:altLabel>
+	<skos:altLabel>Sclerosis, Disseminated</skos:altLabel>
+	<skos:altLabel>Sclerosis, Multiple</skos:altLabel>
+	<skos:altLabel>Secondary progressive multiple sclerosis</skos:altLabel>
+	<skos:altLabel>MS - Multiple sclerosis</skos:altLabel>
+	<skos:altLabel>DS - Disseminated sclerosis</skos:altLabel>
+	<skos:altLabel>Multiple sclerosis (disorder)</skos:altLabel>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D11435"/>   
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E15857"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N18236"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O58474"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MON13868"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO11432"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:GA5631"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD9160"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS25129"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED13123"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I37737"/> 
+    </rdf:Description>
+	
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:D11435">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/DOID_2377</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:2377</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Human Disease Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">multiple sclerosis</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:D11435</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M10936"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E15857"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N18236"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O58474"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MON13868"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO11432"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:GA5631"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD9160"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS25129"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED13123"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I37737"/> 
+     </rdf:Description>
+
+     <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:E15857">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://identifiers.org/efo:0003885</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EFO:0003885</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Experimental Factor Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">multiple sclerosis</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:E15857</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M10936"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D11435"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N18236"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O58474"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MON13868"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO11432"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:GA5631"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD9160"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS25129"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED13123"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I37737"/> 
+	
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:N18236">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://identifiers.org/ncit:C3243</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NCIT:C3243</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NCI Thesaurus OBO Edition</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multiple Sclerosis</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:N18236</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M10936"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D11435"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E15857"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O58474"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MON13868"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO11432"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:GA5631"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD9160"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS25129"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED13123"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I37737"/> 
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:O58474">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://identifiers.org/omit:0010143</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIT:0010143</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OMIT Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multiple Sclerosis</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:O58474</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M10936"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D11435"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E15857"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N18236"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MON13868"/> 	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO11432"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:GA5631"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD9160"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS25129"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED13123"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I37737"/> 
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:MON13868">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.obolibrary.org/obo/MONDO_0005301</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MONDO:0005301</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MONDO Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">multiple sclerosis</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:MON13868</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M10936"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D11435"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E15857"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N18236"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O58474"/> 	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO11432"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:GA5631"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD9160"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS25129"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED13123"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I37737"/> 
+    </rdf:Description>
+
+   <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:SNO11432">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://purl.bioontology.org/ontology/SNOMEDCT/24700007</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SNOMEDCT:24700007</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SNOMEDCT Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multiple sclerosis</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:SNO11432</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M10936"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D11435"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E15857"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N18236"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O58474"/> 	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MON13868"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:GA5631"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD9160"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS25129"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED13123"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I37737"/> 
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:GA5631">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://rarediseases.info.nih.gov/diseases/10255/multiple-sclerosis</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GARD:10255</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Genetic and Rare Diseases Information Center Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multiple sclerosis</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:GA5631</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M10936"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D11435"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E15857"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N18236"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O58474"/> 	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MON13868"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO11432"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD9160"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS25129"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED13123"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I37737"/> 
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:ICD9160">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.icd9data.com/2015/Volume1/320-389/340-349/340</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ICD9:340</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ICD9 Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multiple sclerosis</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:ICD9160</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M10936"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D11435"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E15857"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N18236"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O58474"/> 	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MON13868"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO11432"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:GA5631"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS25129"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED13123"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I37737"/> 
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:UMLS25129">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://identifiers.org/umls:C0026769</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UMLS:C0026769</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UMLS</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">multiple sclerosis</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:UMLS25129</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M10936"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D11435"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E15857"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N18236"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O58474"/> 	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MON13868"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO11432"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:GA5631"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD9160"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED13123"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I37737"/> 
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:MED13123">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://identifiers.org/meddra:10028245</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MEDDRA:10028245</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MedDRA Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multiple sclerosis</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:MED13123</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M10936"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D11435"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E15857"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N18236"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O58474"/> 	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MON13868"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO11432"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:GA5631"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD9160"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS25129"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:I37737"/> 
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://oaas.molecularconnections.com/v1/OAAS:I37737">
+        <mc:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.icd10data.com/ICD10CM/Codes/G00-G99/G35-G37/G35-/G35</mc:url>
+	<mc:id rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ICD10:G35</mc:id>
+	<mc:db rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ICD10 Ontology</mc:db>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Multiple sclerosis</rdfs:label>
+	<rdf:type rdf:resource="http://oaas.molecularconnections.com/resource/disease"/>
+   	<mc:uid xmlns:mc="http://oaas.molecularconnections.com/">OAAS:I37737</mc:uid>	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:M10936"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:D11435"/>  
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:E15857"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:N18236"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:O58474"/> 	
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MON13868"/>
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:SNO11432"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:GA5631"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:ICD9160"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:UMLS25129"/> 
+	<mc:hasDbXref rdf:resource="http://oaas.molecularconnections.com/v1/OAAS:MED13123"/> 
+    </rdf:Description>
+</rdf:RDF>
