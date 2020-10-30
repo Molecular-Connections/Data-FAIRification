@@ -1,5 +1,5 @@
 # Data-FAIRification
-Data FAIRification: Ontology cross-reference and mapping service
+Data FAIRification: Ontology Enhancement Platform
 
 Problem Statement
 
