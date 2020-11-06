@@ -28,7 +28,7 @@ OAAS is a comprehensive semantic repository for biomedical ontologies that aims 
 OAAS is developed and maintained by the Ontology Experts at MC labs.
 
 
-Example:
+# Example:
 Enhanced MeSH Vocabulary
 
 The Medical Subject Headings (MeSH) thesaurus is a controlled and hierarchically-organized vocabulary produced by the National Library of Medicine. It is used for indexing, cataloging, and searching of biomedical and health-related information. MeSH includes the subject headings appearing in MEDLINE/PubMed, the NLM Catalog, and other NLM databases. 
@@ -46,7 +46,7 @@ Using OAAS current MeSH Disease concept has been enhanced to:
     Synonyms: ~98040
 	DBXrefs: ~22394
  
-DiabetesMellitus.rdf
+# See DiabetesMellitus.rdf
 
 
 # About Molecular Connections 
