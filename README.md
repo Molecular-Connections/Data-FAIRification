@@ -1,5 +1,5 @@
-# Data-FAIRification
-Data FAIRification: Ontology Enhancement Platform
+# Data FAIRification: Ontology Enhancement Platform
+
 ### Problem Statement
 
 As the data is being annotated on a larger scale and are described using controlled terminologies or ontology standards. Multiple ontologies are available for any given domain, so the ability to map related or similar concepts is the necessity for data integration. Several techniques and tools have emerged that support ontology mapping, but finding and harmonising mappings from multiple sources remains a challenge for users.
@@ -46,7 +46,7 @@ Using OAAS current MeSH Disease concept has been enhanced to:
     Synonyms: ~98040
 	DBXrefs: ~22394
  
-SampleDisease.rdf
+DiabetesMellitus.rdf
 
 
 # About Molecular Connections 
